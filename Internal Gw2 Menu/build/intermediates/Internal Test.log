@@ -1,0 +1,43 @@
+﻿  Agent.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  AttackTarget.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Buff.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Camera.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Character.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Compass.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  DataScan.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  EquipItem.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  EspDraw.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Frame.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Gadget.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  GameData.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  General.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Gw2Hook.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Item.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  main.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Memory.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Player.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  RefreshData.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  ResourceNode.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
+  Compiling...
+  SampleApp.cpp
+C:\Users\devin\source\repos\Internal Gw2 Menu\ext\gw2offsets\Gw2Hook.h(2,10): fatal error C1083: Cannot open include file: 'hacklib/PatternScanner.h': No such file or directory
